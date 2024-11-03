@@ -5,7 +5,7 @@ allows you to calculate the rsa public and private keys
 
 
 ## LICENSE
-This work is licensed under GNU v3.
+This work is licensed under GLP-3.0.
 
 
 ## CONTACT
