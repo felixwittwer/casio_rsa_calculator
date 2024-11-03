@@ -102,7 +102,7 @@ To use the Progam you have to execute the RSA-KEY.g1m file by:
 
 | Filename   | Filesize on Calculator | Lines of code |
 | ---------- | ---------------------- | ------------- |
-| RAS-KEY    | 2172 Bytes             | 103  Lines    |
+| RSA-KEY    | 2172 Bytes             | 103  Lines    |
 | **Total**  | **2172 Bytes**         | **103 Lines** |
 
 </div>
